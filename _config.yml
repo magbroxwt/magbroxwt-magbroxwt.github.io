@@ -86,3 +86,4 @@ exclude:
  - "*.bk"
  - "*.draft.md"
  - "*.source.*"
+theme: jekyll-theme-cayman
